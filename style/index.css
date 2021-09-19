@@ -1,0 +1,19 @@
+h1 {
+    text-align:center;
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+.gallery {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+
+img {
+    width: 400px;
+    height: 300px;
+}
+  
